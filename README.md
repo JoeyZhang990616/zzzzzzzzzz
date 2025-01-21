@@ -1,4 +1,4 @@
-# LLM BASED EVALUATION FRAMEWORK FOR MULTI CRITERIA DECISION MAKING
+#  A General Framework of LLMs-based Multi-Criteria Decision Making without Human Expert Involvement
 
 ## INSTALLING DEPENDENCIES
 openai==0.28.0  
